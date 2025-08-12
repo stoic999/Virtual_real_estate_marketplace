@@ -130,3 +130,8 @@ For questions and support, please open an issue on GitHub.
 ---
 
 **⭐ Star this repository if you find it useful!**
+
+
+** Contract DETAILS:
+0xEE159B5c16f0E13f66371C4cFe87f1fe6A86d070
+<img width="1918" height="899" alt="Screenshot 2025-08-12 145016" src="https://github.com/user-attachments/assets/e155c830-36f1-488c-9d51-cabe1c624e7d" />
