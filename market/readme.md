@@ -80,4 +80,53 @@ getProperty(tokenId);
 ## 🔧 Contract Functions
 
 | Function | Description | Access |
-|----------|-------------|-------
+|----------|-------------|---------|
+| `mintProperty()` | Create new virtual properties | Owner Only |
+| `listForSale()` | List property on marketplace | Property Owner |
+| `buyProperty()` | Purchase listed property | Anyone |
+| `removeFromSale()` | Remove property from sale | Property Owner |
+| `getProperty()` | Get property information | Anyone |
+
+## 📋 Future Roadmap
+
+### Phase 1: Enhanced Trading
+- 🏷️ Auction system with bidding
+- 🏠 Property rental marketplace
+- 📈 Dynamic pricing oracles
+- 📦 Bulk trading operations
+
+### Phase 2: Advanced Features
+- 🏗️ Property development system
+- 🏢 Zoning (residential, commercial, recreational)
+- 🌐 Cross-metaverse compatibility
+- 📱 Mobile application
+
+### Phase 3: Economic Systems
+- 💎 Governance token launch
+- 🎁 Staking rewards program
+- 🛡️ Insurance protection system
+- 🤖 AI-powered analytics
+
+## 🔐 Security Features
+
+- ✅ Ownership verification
+- ✅ Reentrancy protection
+- ✅ Input validation
+- ✅ Automated payment handling
+- ✅ Access control modifiers
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📞 Support
+
+For questions and support, please open an issue on GitHub.
+
+---
+
+**⭐ Star this repository if you find it useful!**
